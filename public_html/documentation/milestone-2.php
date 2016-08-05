@@ -10,13 +10,13 @@
 		<ul>
 			<li>About Me</li>
 			<li>Portfolio</li>
-			<li>Contact Form</li>
+			<li>Contact</li>
 		</ul>
 		<h1>Content Strategy</h1>
 		<p>The top of the page will have my name and a navbar</p>
 		<p><strong>About Me:</strong> This section will contain a picture of me followed by a short introduction. It could also contain my objectives for working as a developer.</p>
 		<p><strong>Portfolio:</strong> This will be a section to show off my portfolio.</p>
-		<p><strong>Contact Form:</strong> This will be a contact form that sends messages to my email.</p>
+		<p><strong>Contact:</strong> This will contain contact information for email, github, linkdin, etc.</p>
 		<h1>Wireframes</h1>
 	</body>
 </html>
