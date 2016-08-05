@@ -5,6 +5,8 @@
 		<title>Milestone 2</title>
 	</head>
 	<body>
-		
+		<h1>Sitemap</h1>
+		<h1>Content Strategy</h1>
+		<h1>Wireframes</h1>
 	</body>
 </html>
