@@ -18,5 +18,9 @@
 		<p><strong>Portfolio:</strong> This will be a section to show off my portfolio.</p>
 		<p><strong>Contact:</strong> This will contain contact information for email, github, linkdin, etc.</p>
 		<h1>Wireframes</h1>
+		<h3>Desktop</h3>
+		<img src="pwp-wireframe-desktop.svg" alt="desktop wireframe" />
+		<h3>Mobile</h3>
+		<img src="pwp-wireframe-mobile.svg" alt="mobile wireframe" />
 	</body>
 </html>
