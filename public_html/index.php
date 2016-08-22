@@ -88,6 +88,18 @@
 					</div>
 				</div>
 			</section>
+
+			<!-- contact section -->
+			<section>
+				<div class="container">
+					<div class="well text-center col-md-4">
+						<h3>Contact Form</h3>
+					</div>
+					<div class="well text-center col-md-6 pull-right">
+						<h3>Social Media Links</h3>
+					</div>
+				</div>
+			</section>
 		</div>
 	</body>
 </html>
