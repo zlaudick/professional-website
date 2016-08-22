@@ -79,6 +79,15 @@
 					</div>
 				</div>
 			</section>
+
+			<!-- portfolio section -->
+			<section>
+				<div class="container">
+					<div class="well text-center">
+						<h3>Projects go here</h3>
+					</div>
+				</div>
+			</section>
 		</div>
 	</body>
 </html>
