@@ -71,6 +71,14 @@
 					</div>
 				</div>
 			</header>
+			<!-- welcome section -->
+			<section>
+				<div class="container">
+					<div class="jumbotron text-center">
+						<h1>Welcome</h1>
+					</div>
+				</div>
+			</section>
 		</div>
 	</body>
 </html>
