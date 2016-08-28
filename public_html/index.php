@@ -92,8 +92,34 @@
 			<!-- contact section -->
 			<section>
 				<div class="container">
-					<div class="well text-center col-md-4">
+					<div class="well col-md-4">
 						<h3>Contact Form</h3>
+						<form id="contact-form">
+							<div class="form-group">
+								<label for="name">Name</label>
+								<div class="input-group">
+									<input type="text">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="email">Email</label>
+								<div class="input-group">
+									<input type="text">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="subject">Subject</label>
+								<div class="input-group">
+									<input type="text">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="message">Message</label>
+								<div class="input-group">
+									<textarea class="form-control" rows="5" name="message"></textarea>
+								</div>
+							</div>
+						</form>
 					</div>
 					<div class="well text-center col-md-6 pull-right">
 						<h3>Social Media Links</h3>
