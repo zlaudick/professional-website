@@ -21,3 +21,12 @@ I suggest giving the [Bootstrap Challenge](https://bootcamp-coders.cnm.edu/~rlew
 
 ### Edits &amp; Suggestions
 - [FontAwesome](http://fontawesome.io/) will take care of your social media icons.
+
+## Milestone 2&beta; Feedback
+- http://fontawesome.io/ for social links
+- Pick one color, or one nice background image, and one nice font for your headings. Designed. Boom.
+- Tighten up booptstrap layout and get form in place.
+- Content
+- Keep a simple layout consistent to tie things together and make things easy :-)
+- Think of just putting onfo about Capstone under projects, and all it a day.
+- Example: https://bootcamp-coders.cnm.edu/class-materials/bootstrap/stellar-parallax.php
