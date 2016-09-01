@@ -45,7 +45,7 @@
 						<div class="col-md-12">
 
 							<!-- begin navbar -->
-							<nav class="navbar navbar-default">
+							<nav class="navbar">
 								<!-- Brand and toggle get grouped for better mobile display -->
 								<div class="navbar-header">
 									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -54,15 +54,15 @@
 										<span class="icon-bar"></span>
 										<span class="icon-bar"></span>
 									</button>
-									<a class="navbar-brand" href="#">Zac Laudick</a>
+									<a class="navbar-brand" href="#home">Zac Laudick</a>
 								</div>
 
 								<!-- Collect the nav links, forms, and other content for toggling -->
 								<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 									<ul class="nav navbar-nav navbar-right">
-										<li><a href="#">Home</a></li>
-										<li><a href="#">Portfolio</a></li>
-										<li><a href="#">Contact</a></li>
+										<li><a href="#home">Home</a></li>
+										<li><a href="#portfolio">Portfolio</a></li>
+										<li><a href="#contact">Contact</a></li>
 									</ul>
 								</div><!-- /.navbar-collapse -->
 
@@ -72,7 +72,7 @@
 				</div>
 			</header>
 			<!-- welcome section -->
-			<section>
+			<section id="home">
 				<div class="container">
 					<div class="jumbotron text-center">
 						<h1>Welcome</h1>
@@ -81,7 +81,7 @@
 			</section>
 
 			<!-- portfolio section -->
-			<section>
+			<section id="portfolio">
 				<div class="container">
 					<div class="well text-center">
 						<h3>Projects go here</h3>
@@ -90,7 +90,7 @@
 			</section>
 
 			<!-- contact section -->
-			<section>
+			<section id="contact">
 				<div class="container">
 					<div class="well col-md-4">
 						<h3>Contact Form</h3>
