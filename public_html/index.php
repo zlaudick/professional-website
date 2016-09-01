@@ -107,18 +107,27 @@
 							<div class="form-group">
 								<label for="email">Email</label>
 								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-envelope fa-fw" aria-hidden="true"></i>
+									</div>
 									<input type="text">
 								</div>
 							</div>
 							<div class="form-group">
 								<label for="subject">Subject</label>
 								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-pencil fa-fw" aria-hidden="true"></i>
+									</div>
 									<input type="text">
 								</div>
 							</div>
 							<div class="form-group">
 								<label for="message">Message</label>
 								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-comment fa-fw" aria-hidden="true"></i>
+									</div>
 									<textarea class="form-control" rows="5" name="message"></textarea>
 								</div>
 							</div>
