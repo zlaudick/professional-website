@@ -98,6 +98,9 @@
 							<div class="form-group">
 								<label for="name">Name</label>
 								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-user fa-fw" aria-hidden="true"></i>
+									</div>
 									<input type="text">
 								</div>
 							</div>
@@ -121,7 +124,7 @@
 							</div>
 						</form>
 					</div>
-					<div class="well text-center col-md-6 pull-right">
+					<div class="well text-center col-md-6 col-md-offset-2">
 						<h3>Social Media Links</h3>
 					</div>
 				</div>
