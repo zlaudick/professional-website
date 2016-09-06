@@ -1,7 +1,21 @@
 header {
-	background-color: darkslategrey;
+
 }
 
-#port-well {
-	color: darkslategrey;
+body {
+	background: url("../images/website-background.jpeg");
+	background-size: cover;
+}
+
+.navbar-inverse {
+	background: none;
+	border: none;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
 }
