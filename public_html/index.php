@@ -88,7 +88,7 @@
 			<section id="portfolio">
 				<div class="container">
 					<div class="well text-center">
-						<h3>Projects go here</h3>
+						<h3>Recent Projects</h3>
 					</div>
 				</div>
 			</section>
@@ -137,8 +137,8 @@
 							</div>
 						</form>
 					</div>
-					<div class="well text-center col-md-6 col-md-offset-2">
-						<h3>Social Media Links</h3>
+					<div class="well text-center col-md-6 col-md-offset-2" id="links">
+						<h3 class="fa fa-github"><a href="https://github.com/zlaudick">@zlaudick</a></h3>
 					</div>
 				</div>
 			</section>
