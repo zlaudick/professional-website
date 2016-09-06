@@ -137,8 +137,8 @@
 							</div>
 						</form>
 					</div>
-					<div class="text-center col-md-4 col-md-offset-4" id="links">
-						<h3 class="fa fa-github"><a href="https://github.com/zlaudick">@zlaudick</a></h3>
+					<div class="text-center col-md-4 col-md-offset-4">
+						<p class="links"><a href="https://github.com/zlaudick"><i class="fa fa-github"></i>@zlaudick</a></p>
 					</div>
 				</div>
 			</section>
