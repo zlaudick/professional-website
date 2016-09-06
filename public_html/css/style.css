@@ -13,9 +13,23 @@ body {
 }
 
 .navbar-inverse .navbar-brand {
-	color: white;
+	color: lightsteelblue;
+	font-family: 'Orbitron', sans-serif;
 }
 
 .navbar-inverse .navbar-nav>li>a {
-	color: white;
+	color: lightsteelblue;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.h1, h1 {
+	font-size: 70px;
+	color: lightsteelblue;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.description {
+	font-size: 20px;
+	margin-bottom: 55px;
+	color: lightsteelblue;
 }

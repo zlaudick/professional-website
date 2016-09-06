@@ -14,6 +14,9 @@
 		<!-- Font Awesome -->
 		<link type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css" rel="stylesheet" />
 
+		<!-- Google Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+
 		<!-- Custom CSS Goes HERE -->
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 
@@ -74,8 +77,9 @@
 			<!-- welcome section -->
 			<section id="home">
 				<div class="container">
-					<div class="jumbotron text-center">
-						<h1>Welcome</h1>
+					<div class="text-center">
+						<h1>Zac Laudick</h1>
+						<p class="description">Web Developer</p>
 					</div>
 				</div>
 			</section>
