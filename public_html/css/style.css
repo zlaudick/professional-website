@@ -37,3 +37,13 @@ body {
 #links {
 	font-size: 24px;
 }
+
+.h3, h3 {
+	font-family: 'Orbitron', sans-serif;
+	color: lightsteelblue;
+}
+
+#contact-form {
+	color: lightsteelblue;
+	font-family: 'Orbitron', sans-serif;
+}

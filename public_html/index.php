@@ -63,7 +63,7 @@
 								<!-- Collect the nav links, forms, and other content for toggling -->
 								<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 									<ul class="nav navbar-nav navbar-right">
-										<li><a href="#home" class="fa fa-home"></a></li>
+										<li><a href="#home"><i class="fa fa-home"></i></a></li>
 										<li><a href="#portfolio">Portfolio</a></li>
 										<li><a href="#contact">Contact</a></li>
 									</ul>
@@ -87,7 +87,7 @@
 			<!-- portfolio section -->
 			<section id="portfolio">
 				<div class="container">
-					<div class="well text-center">
+					<div class="text-center">
 						<h3>Recent Projects</h3>
 					</div>
 				</div>
@@ -96,48 +96,48 @@
 			<!-- contact section -->
 			<section id="contact">
 				<div class="container">
-					<div class="well col-md-4">
+					<div class="col-md-4">
 						<h3>Contact Form</h3>
 						<form id="contact-form">
 							<div class="form-group">
 								<label for="name">Name</label>
 								<div class="input-group">
 									<div class="input-group-addon">
-										<i class="fa fa-user fa-fw" aria-hidden="true"></i>
+										<i class="fa fa-user" aria-hidden="true"></i>
 									</div>
-									<input type="text">
+									<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 								</div>
 							</div>
 							<div class="form-group">
 								<label for="email">Email</label>
 								<div class="input-group">
 									<div class="input-group-addon">
-										<i class="fa fa-envelope fa-fw" aria-hidden="true"></i>
+										<i class="fa fa-envelope" aria-hidden="true"></i>
 									</div>
-									<input type="text">
+									<input type="text" class="form-control" id="email" name="email" placeholder="Email">
 								</div>
 							</div>
 							<div class="form-group">
 								<label for="subject">Subject</label>
 								<div class="input-group">
 									<div class="input-group-addon">
-										<i class="fa fa-pencil fa-fw" aria-hidden="true"></i>
+										<i class="fa fa-pencil" aria-hidden="true"></i>
 									</div>
-									<input type="text">
+									<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
 								</div>
 							</div>
 							<div class="form-group">
 								<label for="message">Message</label>
 								<div class="input-group">
 									<div class="input-group-addon">
-										<i class="fa fa-comment fa-fw" aria-hidden="true"></i>
+										<i class="fa fa-comment" aria-hidden="true"></i>
 									</div>
-									<textarea class="form-control" rows="5" name="message"></textarea>
+									<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
 								</div>
 							</div>
 						</form>
 					</div>
-					<div class="well text-center col-md-6 col-md-offset-2" id="links">
+					<div class="text-center col-md-4 col-md-offset-4" id="links">
 						<h3 class="fa fa-github"><a href="https://github.com/zlaudick">@zlaudick</a></h3>
 					</div>
 				</div>
