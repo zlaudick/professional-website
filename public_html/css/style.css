@@ -24,14 +24,14 @@ body {
 
 .h1, h1 {
 	font-size: 70px;
-	color: lightsteelblue;
+	color: aliceblue;
 	font-family: 'Orbitron', sans-serif;
 }
 
 .description {
 	font-size: 20px;
 	margin-bottom: 55px;
-	color: lightsteelblue;
+	color: aliceblue;
 }
 
 .links {
@@ -51,4 +51,17 @@ body {
 
 a {
 	color: lightsteelblue;
+}
+
+.thumbnail {
+	background: none;
+	border: none;
+}
+
+.thumbnail .caption {
+	color: aliceblue;
+}
+
+#projects {
+	color: aliceblue;
 }
