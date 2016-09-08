@@ -17,6 +17,9 @@
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
 
+		<!-- Favicon -->
+		<link type="image/ico" href="images/coding.jpg" rel="shortcut icon" />
+
 		<!-- Custom CSS Goes HERE -->
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 
