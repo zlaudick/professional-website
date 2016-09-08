@@ -120,7 +120,7 @@
 				<div class="container">
 					<div class="col-md-4">
 						<h3>Contact Form</h3>
-						<form id="contact-form" method="POST">
+						<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
 							<div class="form-group">
 								<label for="name">Name</label>
 								<div class="input-group">
@@ -164,6 +164,14 @@
 							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 						</form>
+
+						<!--empty area for form error/success output-->
+						<div class="row">
+							<div class="col-xs-12">
+								<div id="output-area"></div>
+							</div>
+						</div>
+
 					</div>
 					<div class="text-center col-md-4 col-md-offset-4">
 						<p class="links"><a href="https://github.com/zlaudick"><i class="fa fa-github"></i>@zlaudick</a></p>
