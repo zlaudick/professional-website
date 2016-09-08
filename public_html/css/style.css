@@ -48,6 +48,11 @@ body {
 
 #contact-form {
 	color: lightsteelblue;
+	margin-bottom: 20px;
+}
+
+.g-recaptcha {
+	margin-bottom: 15px;
 }
 
 a {

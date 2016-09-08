@@ -30,11 +30,22 @@
 		<!-- jQuery - required for Bootstrap Components -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google Recaptcha -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 		<!-- ADD YOUR CUSTOM JS FILES HERE -->
-		<script src="js/custom.js" type="text/javascript"></script>
+<!--		<script src="js/custom.js" type="text/javascript"></script>-->
 
 		<title>Zac Laudick</title>
 	</head>
@@ -109,7 +120,7 @@
 				<div class="container">
 					<div class="col-md-4">
 						<h3>Contact Form</h3>
-						<form id="contact-form">
+						<form id="contact-form" method="POST">
 							<div class="form-group">
 								<label for="name">Name</label>
 								<div class="input-group">
@@ -146,6 +157,12 @@
 									<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
 								</div>
 							</div>
+
+							<!-- reCAPTCHA -->
+							<div class="g-recaptcha" data-sitekey="6LdPsykTAAAAAOlpJvJeq3Yr1rHXJkggJSKhddbj"></div>
+
+							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 						</form>
 					</div>
 					<div class="text-center col-md-4 col-md-offset-4">
