@@ -106,7 +106,7 @@
 						<div class="projects">
 							<div class="col-md-4 col-md-offset-4">
 								<div class="thumbnail">
-									<img src="..." alt="...">
+									<img src="images/dev-connect.png" alt="DevConnect">
 									<div class="caption">
 										<h4>Dev Connect</h4>
 										<p>DevConnect is a social media platform designed to link non profit organizations and web developers. It's main goal is to provide low cost or free professional websites in exchange for work experience.</p>
