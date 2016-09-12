@@ -162,7 +162,7 @@
 							</div>
 
 							<!-- reCAPTCHA -->
-							<div class="g-recaptcha" data-sitekey="6LdPsykTAAAAAOlpJvJeq3Yr1rHXJkggJSKhddbj"></div>
+							<div class="g-recaptcha" data-sitekey="6LfA-ikTAAAAAPXcaFMUuDP1fFrgExlMhJx0QJAx"></div>
 
 							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
