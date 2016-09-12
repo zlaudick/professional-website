@@ -122,7 +122,7 @@
 			<section id="contact">
 				<div class="container">
 					<div class="col-md-4">
-						<h3>Contact Form</h3>
+						<h3>Contact Me</h3>
 						<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
 							<div class="form-group">
 								<label for="name">Name</label>
