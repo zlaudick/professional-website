@@ -102,14 +102,25 @@
 			<section id="portfolio">
 				<div class="container">
 					<div class="text-center">
-						<h3 id="projects">Recent Projects</h3>
+						<h3 id="projects">Recent/Current Projects</h3>
 						<div class="projects">
-							<div class="col-md-4 col-md-offset-4">
+							<div class="col-md-4 col-md-offset-1">
 								<div class="thumbnail">
-									<img src="images/dev-connect.png" alt="DevConnect">
+									<img src="images/dev-connect-1.png" alt="DevConnect">
 									<div class="caption">
 										<h4>Dev Connect</h4>
 										<p>DevConnect is a social media platform designed to link non profit organizations and web developers. It's main goal is to provide low cost or free professional websites in exchange for work experience.</p>
+										<p><a href="https://dev-connect.net/" target="_blank" class="btn btn-primary" role="button">View</a></p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 col-md-offset-2">
+								<div class="thumbnail">
+									<img src="images/brewhop.png" alt="BrewHop">
+									<div class="caption">
+										<h4>BrewHop</h4>
+										<p>BrewHop is an app designed to connect you with local breweries. The app shows you general information about each brewery and a list of other breweries nearby. I'm planning to add features that allow you to sign up and follow your favorite breweries. The breweries will be able to post news and events to keep you updated on what's happening.</p>
+										<p><a href="https://dry-scrubland-13046.herokuapp.com/" target="_blank" class="btn btn-primary" role="button">View</a></p>
 									</div>
 								</div>
 							</div>
@@ -177,7 +188,7 @@
 
 					</div>
 					<div class="text-center col-md-4 col-md-offset-4">
-						<p class="links"><a href="https://github.com/zlaudick"><i class="fa fa-github"></i>@zlaudick</a></p>
+						<p class="links"><a href="https://github.com/zlaudick" target="_blank"><i class="fa fa-github"></i>@zlaudick</a></p>
 					</div>
 				</div>
 			</section>
