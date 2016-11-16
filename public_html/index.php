@@ -119,7 +119,7 @@
 									<img src="images/brewhop.png" alt="BrewHop">
 									<div class="caption">
 										<h4>BrewHop</h4>
-										<p>BrewHop is an app designed to connect you with local breweries. The app shows you general information about each brewery and a list of other breweries nearby. I'm planning to add features that allow you to sign up and follow your favorite breweries. The breweries will be able to post news and events to keep you updated on what's happening.</p>
+										<p>BrewHop is an app designed to connect you with local breweries. The app shows you general information about each brewery and a list of other breweries nearby. Users can sign up and follow their favorite breweries. The breweries can make posts to keep their followers updated on news and events at their brewery.</p>
 										<p><a href="https://dry-scrubland-13046.herokuapp.com/" target="_blank" class="btn btn-primary" role="button">View</a></p>
 									</div>
 								</div>
