@@ -110,7 +110,8 @@
 									<div class="caption">
 										<h4>Dev Connect</h4>
 										<p>DevConnect is a social media platform designed to link non profit organizations and web developers. It's main goal is to provide low cost or free professional websites in exchange for work experience.</p>
-										<p><a href="https://dev-connect.net/" target="_blank" class="btn btn-primary" role="button">View</a></p>
+										<p><a href="https://dev-connect.net/" target="_blank" class="btn btn-primary" role="button">Project</a></p>
+										<p><a href="https://github.com/zlaudick/dev-connect" target="_blank" class="btn btn-primary" role="button">Code</a></p>
 									</div>
 								</div>
 							</div>
@@ -120,7 +121,8 @@
 									<div class="caption">
 										<h4>BrewHop</h4>
 										<p>BrewHop is an app designed to connect you with local breweries. The app shows you general information about each brewery and a list of other breweries nearby. Users can sign up and follow their favorite breweries. The breweries can make posts to keep their followers updated on news and events at their brewery.</p>
-										<p><a href="https://dry-scrubland-13046.herokuapp.com/" target="_blank" class="btn btn-primary" role="button">View</a></p>
+										<p><a href="https://brew-hop.herokuapp.com/" target="_blank" class="btn btn-primary" role="button">Project</a></p>
+										<p><a href="https://github.com/zlaudick/brewhop" target="_blank" class="btn btn-primary" role="button">Code</a></p>
 									</div>
 								</div>
 							</div>
